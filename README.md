@@ -4,7 +4,7 @@ Bienvenido a este repositorio de práctica.
 
 ## Descripción
 
-Este proyecto es un ejemplo para aprender a usar Git y GitHub de forma profecional.
+Este proyecto es un ejemplo para aprender a usar Git y GitHub de forma profesional.
 
 ## Cómo empezar
 
